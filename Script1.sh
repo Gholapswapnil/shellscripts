@@ -6,4 +6,4 @@ echo "Welcome to Young Minds"
 echo "Hello batch-21, We are learning Jenkins"
 echo "We have started git Sessions."
 echo "Git command practice"
-
+echo "Git operation from Linux"
